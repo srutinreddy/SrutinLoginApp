@@ -15,6 +15,7 @@ import com.srutin.myDb;
 public class LoginScreen extends AppCompatActivity {
     private EditText unm, pwd;
 
+
     private Button login,closeApp,signUp, clear, settings;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
